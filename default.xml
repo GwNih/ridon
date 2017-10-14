@@ -19,6 +19,7 @@
            />
          
   <default revision="refs/heads/cm-14.1"
+           ridon-revision="refs/heads/ridon-7.1.2"
            remote="github"
            sync-c="true"
            sync-j="4" />
